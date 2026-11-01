@@ -1,0 +1,12 @@
+*.cs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.ini text eol=lf
+*.uproject text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.umap binary
+*.uasset binary
+*.png binary
+*.jpg binary

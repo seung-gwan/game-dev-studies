@@ -1,0 +1,30 @@
+# Engine-generated caches and local editor state
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Ll]ogs/
+**/[Oo]bj/
+**/[Bb]in/
+**/[Uu]ser[Ss]ettings/
+**/Intermediate/
+**/DerivedDataCache/
+**/Saved/
+**/Binaries/
+**/.vs/
+*.csproj
+*.sln
+*.user
+*.log
+
+# Videos are distributed as release assets
+/media/*.mp4
+/media/*.avi
+/media/*.pptx
+/media/unreal-assignment-01-interior.jpg
+
+# Local credentials
+.env
+.env.*
+*.keystore
+*.jks
+*.pem
+*.key
